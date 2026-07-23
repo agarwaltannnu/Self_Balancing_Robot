@@ -26,7 +26,7 @@ The robot uses an MPU6050 sensor to measure its tilt angle and continuously comp
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Microcontroller:** Arduino UNO
 - **Programming Language:** Embedded C (Arduino IDE)
