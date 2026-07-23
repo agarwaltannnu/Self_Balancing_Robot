@@ -141,16 +141,6 @@ Download from [arduino.cc](https://www.arduino.cc/en/software)
 ---
 
 
-## File Structure
-
-```
-Self_Balancing_Robot/
-├── Self_Balancing_Bot.pdf    # Detailed project documentation
-├── README.md                   # This file
-└── [Arduino code]              # Main sketch
-```
-
----
 
 ## What I Learned
 
